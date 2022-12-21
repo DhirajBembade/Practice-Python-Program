@@ -1,6 +1,6 @@
 # Practice
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-"https://tenor.com/en-IN/view/coding-gif-24297652">
 Programs-
 
 Functions/Methods-
